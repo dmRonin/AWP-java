@@ -12,6 +12,8 @@ public class UserDaoJDBCImpl implements UserDao {
 
     }
 
+
+
     public void createUsersTable() {
 
         String query = """
